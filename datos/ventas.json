@@ -1,243 +1,734 @@
 {
-"2025-06-01": {
-    "Lima Arriola": 1720.25,
-    "Plaza Norte": 910.00,
-    "Chimbote Terminal":1590.00,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":1517.00,
-    "Trujillo Terrapuerto":340.00
-},
-"2025-06-02": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-03": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-04": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-05": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-06": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-07": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-08": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-09": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-10": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-11": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-12": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-13": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-14": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-15": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-16": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-17": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-18": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-19": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-20": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-21": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-22": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-23": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-24": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-25": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-26": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-27": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-28": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-29": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-},
-"2025-06-30": {
-    "Lima Arriola": 0,
-    "Plaza Norte": 0,
-    "Chimbote Terminal":0,
-    "Chimbote Bolognesi":0,
-    "Trujillo Ejercito":0,
-    "Trujillo Terrapuerto":0
-}
-
+    "Lima Arriola": [
+        {
+            "fecha": "2025-06-01",
+            "monto": 1720.25
+        },
+        {
+            "fecha": "2025-06-02",
+            "monto": 5206.30
+        },
+        {
+            "fecha": "2025-06-03",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-04",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-05",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-06",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-07",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-08",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-09",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-10",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-11",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-12",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-13",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-14",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-15",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-16",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-17",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-18",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-19",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-20",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-21",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-22",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-23",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-24",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-25",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-26",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-27",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-28",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-29",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-30",
+            "monto": 0
+        }
+    ],
+    "Plaza Norte": [
+        {
+            "fecha": "2025-06-01",
+            "monto": 910
+        },
+        {
+            "fecha": "2025-06-02",
+            "monto": 1420
+        },
+        {
+            "fecha": "2025-06-03",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-04",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-05",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-06",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-07",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-08",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-09",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-10",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-11",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-12",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-13",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-14",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-15",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-16",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-17",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-18",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-19",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-20",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-21",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-22",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-23",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-24",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-25",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-26",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-27",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-28",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-29",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-30",
+            "monto": 0
+        }
+    ],
+    "Chimbote Terminal": [
+        {
+            "fecha": "2025-06-01",
+            "monto": 1590
+        },
+        {
+            "fecha": "2025-06-02",
+            "monto": 3162.25
+        },
+        {
+            "fecha": "2025-06-03",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-04",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-05",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-06",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-07",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-08",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-09",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-10",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-11",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-12",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-13",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-14",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-15",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-16",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-17",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-18",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-19",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-20",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-21",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-22",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-23",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-24",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-25",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-26",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-27",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-28",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-29",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-30",
+            "monto": 0
+        }
+    ],
+    "Chimbote Bolognesi": [
+        {
+            "fecha": "2025-06-01",
+            "monto": 1517
+        },
+        {
+            "fecha": "2025-06-02",
+            "monto": 1200
+        },
+        {
+            "fecha": "2025-06-03",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-04",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-05",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-06",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-07",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-08",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-09",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-10",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-11",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-12",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-13",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-14",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-15",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-16",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-17",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-18",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-19",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-20",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-21",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-22",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-23",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-24",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-25",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-26",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-27",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-28",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-29",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-30",
+            "monto": 0
+        }
+    ],
+    "Trujillo Ejercito": [
+        {
+            "fecha": "2025-06-01",
+            "monto": 340
+        },
+        {
+            "fecha": "2025-06-02",
+            "monto": 3670
+        },
+        {
+            "fecha": "2025-06-03",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-04",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-05",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-06",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-07",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-08",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-09",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-10",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-11",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-12",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-13",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-14",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-15",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-16",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-17",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-18",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-19",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-20",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-21",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-22",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-23",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-24",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-25",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-26",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-27",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-28",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-29",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-30",
+            "monto": 0
+        }
+    ],
+    "Trujillo Terrapuerto": [
+        {
+            "fecha": "2025-06-01",
+            "monto": 340
+        },
+        {
+            "fecha": "2025-06-02",
+            "monto": 240
+        },
+        {
+            "fecha": "2025-06-03",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-04",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-05",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-06",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-07",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-08",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-09",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-10",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-11",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-12",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-13",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-14",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-15",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-16",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-17",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-18",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-19",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-20",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-21",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-22",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-23",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-24",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-25",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-26",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-27",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-28",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-29",
+            "monto": 0
+        },
+        {
+            "fecha": "2025-06-30",
+            "monto": 0
+        }
+    ]
 }
