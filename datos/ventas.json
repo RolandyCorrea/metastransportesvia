@@ -118,7 +118,7 @@
         },
         {
             "fecha": "2025-06-30",
-            "monto": 0
+            "monto": 6421
         }
     ],
     "Plaza Norte": [
@@ -240,7 +240,7 @@
         },
         {
             "fecha": "2025-06-30",
-            "monto": 0
+            "monto": 1445
         }
     ],
     "Chimbote Terminal": [
@@ -362,7 +362,7 @@
         },
         {
             "fecha": "2025-06-30",
-            "monto": 0
+            "monto": 3190
         }
     ],
     "Chimbote Bolognesi": [
@@ -484,7 +484,7 @@
         },
         {
             "fecha": "2025-06-30",
-            "monto": 0
+            "monto": 1020
         }
     ],
     "Trujillo Ejercito": [
@@ -606,7 +606,7 @@
         },
         {
             "fecha": "2025-06-30",
-            "monto": 0
+            "monto": 2379.75
         }
     ],
     "Trujillo Terrapuerto": [
@@ -728,7 +728,7 @@
         },
         {
             "fecha": "2025-06-30",
-            "monto": 0
+            "monto": 350
         }
     ]
 }
